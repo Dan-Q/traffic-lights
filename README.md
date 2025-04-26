@@ -55,7 +55,9 @@ a second problem as an argument for your first problem. The Web's moved on. It's
 too. Also, can you stop depending on the client-side for routing? When it's done _right_ it's ugly,
 and when it's done _wrong_ it's often a nightmare for usability. Just sayin'.)
 
-There'll doubtless be more to say about this in a blog post on https://danq.me/ sometime soon.
+There's a blog post going into further detail, at:
+
+[https://danq.me/2025/04/26/deprecate-react/](https://danq.me/2025/04/26/deprecate-react/)
 
 ## Usage
 
